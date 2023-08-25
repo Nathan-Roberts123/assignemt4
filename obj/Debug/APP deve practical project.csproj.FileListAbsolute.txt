@@ -1,0 +1,20 @@
+C:\Users\USER\Desktop\C# School Project\APP deve practical project\bin\Debug\APP deve practical project.exe.config
+C:\Users\USER\Desktop\C# School Project\APP deve practical project\bin\Debug\APP deve practical project.exe
+C:\Users\USER\Desktop\C# School Project\APP deve practical project\bin\Debug\APP deve practical project.pdb
+C:\Users\USER\Desktop\C# School Project\APP deve practical project\obj\Debug\APP deve practical project.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C# School Project\APP deve practical project\obj\Debug\APP_deve_practical_project.Form1.resources
+C:\Users\USER\Desktop\C# School Project\APP deve practical project\obj\Debug\APP_deve_practical_project.Properties.Resources.resources
+C:\Users\USER\Desktop\C# School Project\APP deve practical project\obj\Debug\APP deve practical project.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\C# School Project\APP deve practical project\obj\Debug\APP deve practical project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# School Project\APP deve practical project\obj\Debug\APP deve practical project.exe
+C:\Users\USER\Desktop\C# School Project\APP deve practical project\obj\Debug\APP deve practical project.pdb
+C:\Users\USER\Desktop\C# School Project\APDJ-PROJ\APP deve practical project\bin\Debug\APP deve practical project.exe.config
+C:\Users\USER\Desktop\C# School Project\APDJ-PROJ\APP deve practical project\bin\Debug\APP deve practical project.exe
+C:\Users\USER\Desktop\C# School Project\APDJ-PROJ\APP deve practical project\bin\Debug\APP deve practical project.pdb
+C:\Users\USER\Desktop\C# School Project\APDJ-PROJ\APP deve practical project\obj\Debug\APP deve practical project.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\C# School Project\APDJ-PROJ\APP deve practical project\obj\Debug\APP_deve_practical_project.Form1.resources
+C:\Users\USER\Desktop\C# School Project\APDJ-PROJ\APP deve practical project\obj\Debug\APP_deve_practical_project.Properties.Resources.resources
+C:\Users\USER\Desktop\C# School Project\APDJ-PROJ\APP deve practical project\obj\Debug\APP deve practical project.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\C# School Project\APDJ-PROJ\APP deve practical project\obj\Debug\APP deve practical project.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\C# School Project\APDJ-PROJ\APP deve practical project\obj\Debug\APP deve practical project.exe
+C:\Users\USER\Desktop\C# School Project\APDJ-PROJ\APP deve practical project\obj\Debug\APP deve practical project.pdb
